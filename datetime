@@ -1,0 +1,2 @@
+from datetime import datetime
+parsed_date = datetime.strptime(Jan 15, 2023, "%b %d, %Y")
